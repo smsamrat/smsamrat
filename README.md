@@ -22,5 +22,7 @@ I’m a Front End and Backend Web developer who is passionate about making error
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shovoalways&show_icons=true) 
 
+![GitHub metrics](https://metrics.lecoq.io/smsamrat) 
+
 ## 📧 For Business Inquiries 
 ✅  ► s.m.samrat1215@gmail.com
