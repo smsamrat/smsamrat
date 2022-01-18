@@ -24,7 +24,5 @@ I’m a Front End and Backend Web developer who is passionate about making error
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=smsamrat)  
 
-![GitHub metrics](https://metrics.lecoq.io/smsamrat) 
-
 ## 📧 For Business Inquiries 
 ✅  ► s.m.samrat1215@gmail.com
