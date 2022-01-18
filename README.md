@@ -22,6 +22,8 @@ I’m a Front End and Backend Web developer who is passionate about making error
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shovoalways&show_icons=true) 
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=smsamrat)  
+
 ![GitHub metrics](https://metrics.lecoq.io/smsamrat) 
 
 ## 📧 For Business Inquiries 
