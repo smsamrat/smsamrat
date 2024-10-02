@@ -10,8 +10,8 @@ I’m a Front End and Backend Web developer who is passionate about making error
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ Django Framework <br> 
+✅ Django Rest Framework <br>
 ✅ JavaScript <br>
-✅ PHP <br>
 ✅ HTML5 / CSS3 / JQuery / Bootstrap <br>
 ✅ Photoshop / Illustrator <br>
 
