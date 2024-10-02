@@ -9,6 +9,7 @@
 I’m a Front End and Backend Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created ecommerce websites for my University project. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with Django but some technologies I enjoy working with include javascript as well as PHP. 
 
 ## 👨‍💻 Skills & Experiance: 
+✅ Python <br>
 ✅ Django Framework <br> 
 ✅ Django Rest Framework <br>
 ✅ JavaScript <br>
