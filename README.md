@@ -13,6 +13,10 @@ I’m a Front End and Backend Web developer who is passionate about making error
 ✅ Django Framework <br> 
 ✅ Django Rest Framework <br>
 ✅ Web Scrapy and Automation <br>
+✅ React <br>
+✅ Docker/Kubernete <br>
+✅ CI/CD <br>
+✅ AWS <br>
 ✅ JavaScript <br>
 ✅ HTML5 / CSS3 / JQuery / Bootstrap <br>
 ✅ Photoshop / Illustrator <br>
