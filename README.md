@@ -1,12 +1,13 @@
 ## Hi, I'm SM Samrat 👋
 <p>
-👑 I am Web Developer <br> 
+👑 I am Software Developer <br> 
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
 
 ![Profile views](https://gpvc.arturio.dev/smsamrat) 
 
-I’m a Full Stack Web developer (specially Backend) who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created ecommerce websites for my University project. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with Django but some technologies I enjoy working with include javascript as well as PHP. 
+Hi, I’m Samrat, a Python developer with 3 years of experience in building robust backend systems, APIs, and automation tools. I specialize in Django, FastAPI, and RESTful API development, and have worked with databases like PostgreSQL and MySQL. I enjoy writing clean, scalable code and solving real-world problems through efficient software solutions.
+Alongside backend development, I’ve also worked with React for frontend tasks and have a growing proficiency in DevOps tools like Docker, GitHub Actions, and CI/CD pipelines — enabling me to contribute across the full development lifecycle.
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ Python <br>
