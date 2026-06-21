@@ -4,8 +4,6 @@
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
 
-![Profile views](https://gpvc.arturio.dev/smsamrat) 
-
 Hi, I’m Samrat, a Python developer with 4 years of experience in building robust backend systems, APIs, and automation tools. I specialize in Django, FastAPI, and RESTful API development, and have worked with databases like PostgreSQL and MySQL. I enjoy writing clean, scalable code and solving real-world problems through efficient software solutions.
 Alongside backend development, I’ve also worked with React for frontend tasks and have a growing proficiency in DevOps tools like Docker, GitHub Actions, and CI/CD pipelines — enabling me to contribute across the full development lifecycle.
 
